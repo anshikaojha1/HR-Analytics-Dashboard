@@ -1,6 +1,5 @@
 # 📊 HR Analytics Dashboard
 
-Welcome to the **HR Analytics Dashboard** project!  
 This project provides key HR insights such as employee demographics, attrition rate, departmental analysis, and salary trends, helping organizations make data-driven decisions about their workforce.
 
 ![image](https://github.com/user-attachments/assets/ecd090c1-45be-4c5a-80b3-30e0f91894fc)
